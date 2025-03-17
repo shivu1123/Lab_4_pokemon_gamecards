@@ -15,7 +15,7 @@ The **Pokémon Cards App** is a mobile application developed using **Flutter** t
 ## 🛠️ Technologies Used
 - **Flutter** (Dart)
 - **Pokémon TCG API**
-- **Android Studio** / **VS Code** (for development)
+- **Android Studio** 
 - **Dart HTTP package** for API requests
 
 ## 📂 Project Structure
@@ -85,4 +85,4 @@ We welcome contributions! Follow these steps to contribute:
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 ---
-Developed with ❤️ using Flutter. Happy coding! 🚀
+Developed using Flutter. Happy coding! 🚀
